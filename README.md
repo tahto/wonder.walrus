@@ -1,14 +1,20 @@
-# spirit
-[![Build Status](https://travis-ci.org/zcaudate/spirit.png?branch=master)](https://travis-ci.org/zcaudate/spirit)
+# wonder.walrus
+[![Build Status](https://travis-ci.org/zcaudate/wonder.walrus.png?branch=master)](https://travis-ci.org/zcaudate/wonder.walrus)
 
-workflow as data
+outrageous schema transformations
 
-![](https://raw.githubusercontent.com/zcaudate/spirit/master/interstellar.jpg)
+```
+I just hope you understand
+all the lights that lead the way are blinding
+sometimes the clothes do not make the man
+see how they run like pigs from a gun, see how they fly
 
+- Miscellaneous
+```
 
 ## Usage
 
-TBD
+(require '[wonder.walrus :as wham])
 
 ## License
 
